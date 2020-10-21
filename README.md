@@ -1,6 +1,6 @@
 ## Eai, beleza?
 
-Oi! Meu nome é Henrique Freitas, sou formado atualmente como técnico em informática, estudante do primeiro período em Sistemas para Internet pela  Universidade Cesumar.
+Oi! Meu nome é Henrique Freitas, sou formado atualmente como técnico em informática, estudante do primeiro período em Tecnologia de Sistemas para Internet pela  Universidade Cesumar.
 
 "_**scientia est potentia**_"
 
