@@ -5,7 +5,6 @@ Meu nome é Henrique Freitas, sou formado como técnico em informática, estudan
 "_**scientia est potentia**_"
 
 -   ⚙️  HTML5, CSS3.
--   💬  Sobre mim: Aficionado por games, e livros.
 -   🔍  Desenvolvedor Front-end Júnior.
 
 **Redes sociais**
