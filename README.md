@@ -1,12 +1,12 @@
 ## Eai, beleza?
 
-Oi! Meu nome é Henrique Freitas, sou formado atualmente como técnico em informática, estudante do primeiro período em Tecnologia de Sistemas para Internet pela  Universidade Cesumar.
+Meu nome é Henrique Freitas, sou formado como técnico em informática, estudante do segundo período em Tecnologia de Sistemas para Internet pela Unicesumar. Meu objetivo atual é me especializar em Desenvolvimento Front-end para conseguir uma vaga como Desenvolvedor Junior. Atualmente estudo html, css, javascript, git e github.
 
 "_**scientia est potentia**_"
 
--   ⚙️  HTML5, CSS3, ES6 e MySQL  **iniciante.**
+-   ⚙️  HTML5, CSS3.
 -   💬  Sobre mim: Aficionado por games, e livros.
--   🔍  Atualmente aberto a novas oportunidades.
+-   🔍  Desenvolvedor Front-end Júnior.
 
 **Redes sociais**
 
